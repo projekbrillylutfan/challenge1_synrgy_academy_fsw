@@ -1,0 +1,349 @@
+.sewa-rental {
+    width: 568px;
+    color: #000;
+    font-family: Helvetica;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%; /* 54px */
+    text-align: left;
+  }
+  
+  .desk {
+    color: #000;
+    width: 468px;
+    /* Body/14/Light */
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 20px; /* 142.857% */
+    text-align: justify;
+  }
+  
+  .btn-success {
+    display: inline-flex;
+    padding: 8px 12px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 2px;
+    background: var(--primary-lime-green-04, #5cb85f);
+    color: white;
+  }
+  
+  .best-car {
+    width: 468px;
+    color: #000;
+    /* Heading/24/Bold */
+    font-family: Helvetica;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px; /* 150% */
+  }
+  
+  .sewa-mobil {
+    width: 468px;
+    color: #000;
+    /* Body/14/Light */
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 20px; /* 142.857% */
+    text-align: justify;
+  }
+  
+  .table {
+    border: none;
+  }
+  
+  .osd {
+    color: #000;
+    /* Body/14/Light */
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 20px; /* 142.857% */
+  }
+  
+  .why-us-3 {
+    width: 468px;
+    color: #000;
+    /* Heading/24/Bold */
+    font-family: Helvetica;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px; /* 150% */
+  }
+  
+  .why-us-p {
+    width: 468px;
+    color: #000;
+    /* Body/14/Light */
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 20px; /* 142.857% */
+  }
+  
+  .body {
+    width: 1440px;
+    height: 3226px;
+  }
+  
+  .mobil-lengkap {
+    color: #000;
+  
+    /* Title/16/Bold */
+    font-family: Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; /* 150% */
+  }
+  
+  .mobil-lengkap-p {
+    width: 220px;
+    color: #000;
+  
+    /* Body/14/Light */
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 20px; /* 142.857% */
+    /* text-align: justify; */
+  }
+  
+  .testimonial {
+    width: 1921px;
+    height: 438px;
+    flex-shrink: 0;
+  }
+  
+  .testi-h3 {
+    width: 468px;
+    color: #000;
+    padding-left: 650px;
+    /* Heading/24/Bold */
+    font-family: Helvetica;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px; /* 150% */
+  }
+  
+  .p-testi {
+    width: 468px;
+    color: #000;
+    padding-left: 560px;
+    /* Body/14/Light */
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 20px; /* 142.857% */
+  }
+  
+  .cta-banner {
+    width: 1168px;
+    height: 326px;
+    flex-shrink: 0;
+    border-radius: 13px;
+    background: var(--primary-dark-blue-04, #0d28a6);
+  }
+  
+  .cta-banner-h1 {
+    color: var(--neutral-01, #fff);
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%; /* 54px */
+    padding-top: 64px;
+    padding-left: 254px;
+    padding-right: 270px;
+  }
+  
+  .cta-banner-p {
+    width: 468px;
+    color: var(--neutral-01, #fff);
+    text-align: center;
+  
+    /* Body/14/Light */
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 20px; /* 142.857% */
+  }
+  
+  .btn-success {
+    display: inline-flex;
+    padding: 8px 12px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 2px;
+    background: var(--primary-lime-green-04, #5cb85f);
+    color: var(--neutral-10, #fff);
+  
+    /* Body/14/Bold */
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px; /* 142.857% */
+  }
+  
+  .faq {
+    width: 1168px;
+    height: 344px;
+    flex-shrink: 0;
+  }
+  
+  .faq-h2 {
+    width: 368px;
+    color: #000;
+  
+    /* Heading/24/Bold */
+    font-family: Helvetica;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px; /* 150% */
+  }
+  
+  .faq-p {
+    width: 368px;
+    color: #000;
+  
+    /* Body/14/Light */
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 20px; /* 142.857% */
+  }
+  
+  /* .accordion-item {
+    width: 668px;
+    height: 56px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    border: 1px solid #d4d4d4;
+    background: #fff;
+  } */
+  
+  .footer-sewa {
+    display: flex;
+    width: 1141px;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 150px;
+    margin-left: 136px;
+    margin-right: 163px;
+    margin-bottom: 100px;
+  }
+  
+  .footer-p-flex-c-1-1 {
+    width: 268px;
+    color: #000;
+  
+    /* Body/14/Light */
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 20px; /* 142.857% */
+  }
+  
+  .footer-p-flex-c-1-2 {
+    width: 268px;
+    color: #000;
+  
+    /* Body/14/Light */
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 20px; /* 142.857% */
+  }
+  
+  .footer-p-flex-c-1-3 {
+    width: 268px;
+    color: #000;
+  
+    /* Body/14/Light */
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 20px; /* 142.857% */
+  }
+  
+  .footer-p-flex-c-2-1 {
+    color: #000;
+  
+    /* Body/14/Regular */
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 142.857% */
+    font-weight: bold;
+  }
+  
+  .footer-p-flex-c-3-1 {
+    width: 268px;
+    color: #000;
+  
+    /* Body/14/Light */
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 20px; /* 142.857% */
+  }
+  
+  .footer-p-flex-c-4-1 {
+    width: 268px;
+    color: #000;
+  
+    /* Body/14/Light */
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 20px; /* 142.857% */
+  }
+  
+  .logo-footer {
+    width: 100px;
+    height: 34px;
+    flex-shrink: 0;
+    background: #0d28a6;
+  }
+  
+  /* .d-flex {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  } */
+  
+  .card1 {
+    display: flex;
+    padding: 24px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    border-radius: 8px;
+    border: 1px solid var(--neutral-02, #d0d0d0);
+  }
+  
